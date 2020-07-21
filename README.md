@@ -2,8 +2,10 @@
 
 Software Engineering undergraduate | SLIIT
 
-- 🌱 I’m currently learning React-native and Flutter
+- 🌱 I’m currently learning React-native
 - 💬 Ask me about ReactJS/NodeJS
+
+![Farmers Market Finder Demo](demo/demo.gif)
 
 ### Love to Code 
 
