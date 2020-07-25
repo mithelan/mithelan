@@ -13,7 +13,7 @@ Software Engineering undergraduate | SLIIT
 - 📫 How to reach me: 
 Facebook : https://www.facebook.com/kdmithii 
 
-Twitter  : https://twitter.com/Kdmithi
+-Twitter  : https://twitter.com/Kdmithi
 
 Let's Learn Together :)
 
