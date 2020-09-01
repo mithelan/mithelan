@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-Software Engineering undergraduate | SLIIT
+Software Engineering Intern | Undergrad.
+SLIIT
 
 - 🌱 I’m currently learning React-native
 - 💬 Ask me about ReactJS/NodeJS
