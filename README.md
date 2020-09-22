@@ -2,8 +2,7 @@
 Software Engineering Intern | Undergrad.
 SLIIT
 
-- 🌱 I’m currently learning React-native
-- 💬 Ask me about ReactJS/NodeJS
+- 🌱 I’m currently learning Flutter.
 - :movie_camera: Short Flim Director
 
 ![](200.gif)
