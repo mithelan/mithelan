@@ -19,4 +19,6 @@ Let's Learn Together :)
 
 ![Mithelan's github stats](https://github-readme-stats.vercel.app/api?username=mithelan&show_icons=true&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithelan&layout=compact)]
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithelan&layout=compact)
