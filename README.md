@@ -17,5 +17,5 @@ SLIIT
 
 Let's Learn Together :)
 
+![Mithelan's github stats](https://github-readme-stats.vercel.app/api?username=mithelan&show_icons=true&theme=great-gatsby)
 
-https://github-readme-stats.vercel.app/api?username=mithelan&show_icons=true&theme=great-gatsby
