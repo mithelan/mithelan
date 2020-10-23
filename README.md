@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mithelan</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithelan" alt="mithelan" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithelan" alt="mithelan" /></a> </p>
 - 🌱 I’m currently learning **Flutter**
+- :movie_camera: Short Flim Director
+
+ ![](200.gif)
 
 
 <h3 align="left">Hands-on Experience:</h3>
@@ -15,10 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kdmithi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kdmithi" height="30" width="40" /></a>
-  
-  
-<a href="https://linkedin.com/in/https://www.linkedin.com/checkpoint/challengesv2/aqhhe4ltxae97gaaaxvp56wvjzmxzngzi32jbgzmxvvkszkcpipxtalafcjb0lkzriccwbqsm8rjzxk6hp7rzrckby24skwbxq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/checkpoint/challengesv2/aqhhe4ltxae97gaaaxvp56wvjzmxzngzi32jbgzmxvvkszkcpipxtalafcjb0lkzriccwbqsm8rjzxk6hp7rzrckby24skwbxq" height="30" width="40" /></a>
+<a href="https://twitter.com/kdmithi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kdmithi" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/checkpoint/challengesv2/aqhhe4ltxae97gaaaxvp56wvjzmxzngzi32jbgzmxvvkszkcpipxtalafcjb0lkzriccwbqsm8rjzxk6hp7rzrckby24skwbxq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/checkpoint/challengesv2/aqhhe4ltxae97gaaaxvp56wvjzmxzngzi32jbgzmxvvkszkcpipxtalafcjb0lkzriccwbqsm8rjzxk6hp7rzrckby24skwbxq" height="30" width="40" /></a>
 <a href="https://medium.com/@mithelandev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mithelandev" height="30" width="40" /></a>
 <a href="/https://mithelandev.medium.com/tailwindcss-6b44a0b7485c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://mithelandev.medium.com/tailwindcss-6b44a0b7485c" height="30" width="40" /></a>
 </p>
