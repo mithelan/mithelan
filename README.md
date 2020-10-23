@@ -13,8 +13,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithelan&show_icons=true&locale=en" alt="mithelan" /></p>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/kdmithi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kdmithi" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/checkpoint/challengesv2/aqhhe4ltxae97gaaaxvp56wvjzmxzngzi32jbgzmxvvkszkcpipxtalafcjb0lkzriccwbqsm8rjzxk6hp7rzrckby24skwbxq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/checkpoint/challengesv2/aqhhe4ltxae97gaaaxvp56wvjzmxzngzi32jbgzmxvvkszkcpipxtalafcjb0lkzriccwbqsm8rjzxk6hp7rzrckby24skwbxq" height="30" width="40" /></a>
 <a href="https://medium.com/@mithelandev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mithelandev" height="30" width="40" /></a>
 <a href="/https://mithelandev.medium.com/tailwindcss-6b44a0b7485c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://mithelandev.medium.com/tailwindcss-6b44a0b7485c" height="30" width="40" /></a>
